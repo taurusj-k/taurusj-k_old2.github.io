@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCP Cape Cod Real Estate</title>
+    <link>https://taurusj-k.github.io/</link>
+    <description>Recent content on BCP Cape Cod Real Estate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://taurusj-k.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://taurusj-k.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taurusj-k.github.io/contact/</guid>
+      <description>           </description>
+    </item>
+    
+    <item>
+      <title>Our Story</title>
+      <link>https://taurusj-k.github.io/our_story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taurusj-k.github.io/our_story/</guid>
+      <description>We opened in 2007 in Boston. Our first office was opened in the heart of Boston, overlooking the historic Copley square.
+ Boston Office   Address: 581 Boylston St, Boston MA 02116
+Phone: (617) 247-1933
+https://bostoncityproperties.com/
+ Birckshire office   Address: 395 North Street #200, Pittsfield MA 01201
+Phone: (617) 247-1933
+http://www.berkshirerealestate.com/
+ </description>
+    </item>
+    
+    <item>
+      <title>Thank you!</title>
+      <link>https://taurusj-k.github.io/thank_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taurusj-k.github.io/thank_you/</guid>
+      <description> Thanks for joining us in BCP Cape Cod!    Please check your email and add us to your safe-senders list. If you do not receive our confirmation email in the next hour, please contact us! </description>
+    </item>
+    
+    <item>
+      <title>The Neighborhood</title>
+      <link>https://taurusj-k.github.io/the_neighborhood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://taurusj-k.github.io/the_neighborhood/</guid>
+      <description>Cape Cod is charming! Cape Cod can offer vibrant neighborhoods, beautiful beaches, a relaxed atmosphere, and the best New England cuisine!
+ Atlantic Ocean Great location for coastal living!    Cape Cod Bay    </description>
+    </item>
+    
+  </channel>
+</rss>
